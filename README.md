@@ -114,8 +114,7 @@ const Yashwant = {
 <div align="center">
   
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-diabetespredictions--vert.vercel.app-00FFFF?style=for-the-badge)](https://diabetespredictions-vert.vercel.app/)
-[![GitHub](https://img.shields.io/badge/💻_Source_Code-GitHub-8B00FF?style=for-the-badge&logo=github)](https://github.com/Yashwant439)
-
+[![GitHub](https://img.shields.io/badge/💻_Source_Code-GitHub-8B00FF?style=for-the-badge&logo=github)](https://github.com/Yashwant439/diabetesprediction)
 </div>
 
 ```python
